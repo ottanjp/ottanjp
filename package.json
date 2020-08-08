@@ -1,0 +1,20 @@
+{
+  "name": "ottanjp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fuse.js": "^6.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ottanjp/ottanjp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ottanjp/ottanjp/issues"
+  },
+  "homepage": "https://github.com/ottanjp/ottanjp#readme"
+}
